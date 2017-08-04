@@ -53,7 +53,6 @@
   <ItemGroup>
     <Compile Include="TestBridge.cs" />
     <Compile Include="TestViewModel.cs" />
-    <Compile Include="TestViewModelBridgeMessage.cs" />
     <Compile Include="TestViewModelLocator.cs" />
     <Compile Include="WebViewBridgeUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
